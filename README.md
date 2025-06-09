@@ -1,4 +1,4 @@
 # First-Repo
 My first GIT REPO
 <br>
-BY : Tirangini Singh
+BY : Tirangini Singh Negi
